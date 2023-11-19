@@ -1,3 +1,13 @@
+## SGE
+bin/
+bin-int/
+
+## Visual Studio
+*.vcxproj
+*.vcxproj.filters
+
+## default
+
 build/
 imgui.ini
 settings.ini
